@@ -1,0 +1,45 @@
+header {
+    font-size: xxx-large;
+    text-align:center;
+    background-color:rgb(184, 163, 142); ;
+    }
+       
+        
+    body {
+    
+        background-color:rgb(241, 237, 229);
+    
+        text-align:center;
+    }
+    
+    
+    nav{
+      font-size: large;  
+      text-align: center;
+    }
+    
+    h5{
+    
+        font-size: x-large;
+         color: rgb(24, 20, 1); 
+        }
+    ol{
+        font-size: x-large;
+        color: rgb(24, 20, 1);
+        text-align: left;
+    }
+    
+    h6{
+        font-size: x-large;
+        color:  rgb(24, 20, 1);
+        text-align: center;
+    }
+    h4{
+        color: rgb(24, 20, 1);
+        font-size: larger;
+    }
+    h3{
+    height: 360
+    
+    }
+    

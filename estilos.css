@@ -1,0 +1,53 @@
+header  {
+    text-align: center; font-size: larger;
+     background-color: rgb(253, 249, 245);
+     height: 100px;
+ }
+ 
+  header div { 
+     display: flex;
+     height: 100px;
+     justify-content: space-around;
+     align-items: center;
+ }
+ 
+ nav{
+     display: flex;
+     gap: 50px;
+ }
+ 
+ nav a{
+     font-size: 27px;
+     text-decoration: none;
+     color: black;
+ }
+ 
+ body {
+ 
+     background-color:rgb(160, 131, 87);
+ }
+ 
+ h1{
+     
+     font-size: 40px;
+      color: rgb(24, 20, 1);
+     }
+ h2{
+     font-size: 39px;
+     color: rgb(231, 225, 196);
+     text-align: center;
+ }
+ h3{
+     font-size: 29px;
+     color: rgb(231, 225, 196);
+     text-align: center;
+ }
+ h4{
+     color: rgb(0, 0, 0);
+ }
+ 
+ h5{
+     height: auto;
+     align-items: center;
+     display: flex;
+ }
